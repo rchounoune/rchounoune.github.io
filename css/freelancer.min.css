@@ -10753,9 +10753,9 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .portfolio .portfolio-item {
-  cursor: pointer;
+  /*cursor: pointer;*/
   position: relative;
-  display: block;
+  /*display: block;*/
   max-width: 25rem;
   margin-bottom: 30px;
   border-radius: 0.5rem;
@@ -10772,9 +10772,9 @@ a.text-dark:hover, a.text-dark:focus {
   background-color: rgba(26, 188, 156, 0.9);
 }
 
-.portfolio .portfolio-item .portfolio-item-caption:hover {
+/*.portfolio .portfolio-item .portfolio-item-caption:hover {
   opacity: 1;
-}
+}*/
 
 .portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content {
   font-size: 1.5rem;
